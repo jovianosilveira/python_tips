@@ -1,0 +1,7 @@
+1. Entra no CMD do Anaconda;
+
+2. Informe a raiz da partição. Exemplo  -->>  D:
+
+3. Execute o Jupyter -->> jupyter notebook
+
+4. Done!
